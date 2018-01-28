@@ -9,7 +9,7 @@ import serial
 headers = {
     # Request headers. Replace the placeholder key below with your subscription key.
     'Content-Type': 'application/octet-stream',
-    'Ocp-Apim-Subscription-Key': 'd5a5e3e7f3c248bc999729b5b483fec0',
+    'Ocp-Apim-Subscription-Key': '*INSERT KEY HERE*',
 }
 
 params = urllib.parse.urlencode({
